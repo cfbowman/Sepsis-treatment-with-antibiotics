@@ -10,11 +10,11 @@ Cohorts of [sepsis] that compare [antibiotics within one hour] to antibiotics ad
 ### Boolean term searching
 
 
-[lung cancer AND tomography AND random\*](https://www.ncbi.nlm.nih.gov/pubmed?term=((lung%20cancer%20AND%20tomography%20AND%20random*))%20AND%20(%222000%22%5BDate%20-%20Publication%5D%20%3A%20%223000%22%5BDate%20-%20Publication%5D)) since 2000. 
-* Retrieves [all 9 articles](https://www.ncbi.nlm.nih.gov/pubmed/?term=26485620+25760561+28377492+31360863+31162856+30937431+25372087+29496251+29496251) in hand (100% sensitivity)
+[Septic shock OR Severe sepsis OR Sepsis AND antibacterial agents OR antibiotics\*](https://www.ncbi.nlm.nih.gov/pubmed?term=((((septic%20shock%5BMeSH%20Terms%5D)%20OR%20sepsis%5BMeSH%20Terms%5D)%20OR%20severe%20sepsis%5BMeSH%20Terms%5D)%20AND%20antibacterial%20agents%5BMeSH%20Terms%5D)%20OR%20antibiotics%5BMeSH%20Terms%5D*))%20AND%20(%222000%22%5BDate%20-%20Publication%5D%20%3A%20%223000%22%5BDate%20-%20Publication%5D)) since 2000. 
+* Retrieves [all (need final #) articles](https://www.ncbi.nlm.nih.gov/pubmed/?term=24589043+19696442+20048677+26307060+21572327+25651372+25375775) in hand (100% sensitivity)
 
 #### Search 05/26/2019
-[lung cancer AND tomography AND random\*](https://www.ncbi.nlm.nih.gov/pubmed?term=((lung%20cancer%20AND%20tomography%20AND%20random*))%20AND%20(%222000%22%5BDate%20-%20Publication%5D%20%3A%20%223000%22%5BDate%20-%20Publication%5D)) since 2017 (date of Snowsell systematic review). 
+[Septic shock OR Severe sepsis OR Sepsis AND antibacterial agents OR antibiotics\*](https://www.ncbi.nlm.nih.gov/pubmed?term=((((septic%20shock%5BMeSH%20Terms%5D)%20OR%20sepsis%5BMeSH%20Terms%5D*))%20AND%20(%222000%22%5BDate%20-%20Publication%5D%20%3A%20%223000%22%5BDate%20-%20Publication%5D)) since 2017 (date of Sherwin systematic review). 
 * [278](https://www.ncbi.nlm.nih.gov/pubmed?term=((lung%20cancer%20AND%20tomography%20AND%20random*))%20AND%20(%222017%22%5BDate%20-%20Publication%5D%20%3A%20%223000%22%5BDate%20-%20Publication%5D)) total citations found (search 05/26/2019)
    * No additional studies included
 
